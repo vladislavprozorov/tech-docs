@@ -12,7 +12,7 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://your-domain.example.com',
+  url: 'https://your-domain.exampless.com',
   baseUrl: '/',
 
   organizationName: 'aaronsw', 
